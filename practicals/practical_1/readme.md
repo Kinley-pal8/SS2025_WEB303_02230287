@@ -53,7 +53,7 @@ practical_1/
    - Use Docker Compose:
      ```zsh
      cd practical_1
-     docker-compose up --build
+     docker compose up --build
      ```
 2. **Accessing the Services**
    - The services will be available on the ports defined in `docker-compose.yml`.
@@ -64,9 +64,9 @@ practical_1/
 - Ensure Docker is installed and running.
 - Protocol buffer files must be compiled before building the services. Use `protoc` with the Go plugin if you modify `.proto` files.
 
-## Authors
+## Author
 
-- Kinley-pal8
+- Kinley-pal8 project URL [https://github.com/Kinley-pal8/Web303_p1]
 
 ## License
 
