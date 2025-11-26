@@ -2,7 +2,7 @@
 
 Welcome to the practical repository for **WEB303: Microservices & Serverless Applications** (SS2025). This repository contains all hands-on practical work for the module, demonstrating real-world implementation of microservices and serverless architecture patterns.
 
-**Student:** Kinley-pal8  
+**Student:** Kinley Palden
 **Module Code:** WEB303  
 **Semester:** Spring/Summer 2025  
 

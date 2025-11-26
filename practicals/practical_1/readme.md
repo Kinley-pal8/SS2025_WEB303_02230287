@@ -1,7 +1,7 @@
 # WEB303 Microservices & Serverless Applications
 ## Practical 1 Report: From Foundational Setup to Inter-Service Communication
 
-**Student:** Kinley-pal8  
+**Student:** Kinley Palden
 **Module:** WEB303 Microservices & Serverless Applications  
 **Date:** August 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/Web303_p1](https://github.com/Kinley-pal8/Web303_p1)

@@ -2,7 +2,7 @@
 
 ## Practical 3 Report
 
-**Student:** Kinley-pal8  
+**Student:** Kinley Palden 
 **Module:** WEB303 Microservices & Serverless Applications  
 **Date:** November 26, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/Web303_p3](https://github.com/Kinley-pal8/Web303_p3)

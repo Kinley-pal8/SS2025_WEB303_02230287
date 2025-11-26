@@ -2,7 +2,7 @@
 
 ## Practical 5 Report: Refactoring Monolith to Microservices
 
-**Student:** Kinley-pal8  
+**Student:** Kinley Palden
 **Module:** WEB303 Microservices & Serverless Applications  
 **Date:** October 9, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/Web303_p5](https://github.com/Kinley-pal8/Web303_p5)

@@ -2,7 +2,7 @@
 
 ## Practical 6 Report: Comprehensive Testing for Microservices
 
-**Student:** Kinley-pal8  
+**Student:** Kinley Palden
 **Module:** WEB303 Microservices & Serverless Applications  
 **Date:** November 1, 2025  
 **GitHub Repository:** [https://github.com/Kinley-pal8/Web303_p5-ab_p6](https://github.com/Kinley-pal8/Web303_p5-ab_p6)
